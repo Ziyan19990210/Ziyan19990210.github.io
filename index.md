@@ -28,17 +28,33 @@ Nationality: China
    GPA: 3.37/4.0, Weighted Average Mark:83.5/100
 
 ### Research experience
-1. Reliability assessment and optimization of multi-energy system, 2020.11-2021.11
+### 1. Reliability assessment and optimization of multi-energy system, 2020.11-2021.11
 
-This is the main project that I have investigated in my research during my Mphil study in University of Manchester (UK) this year. This project mainly includes five parts: 
+This is the main project that I have investigated in my research during my Mphil study in University of Manchester (UK) this year. This project mainly includes five parts:
 (1) Modeling of multi-energy system;
+
 (2) Reliability assessment in multi-energy system considering load uncertainties;
+
 (3) Reliability optimization of multi-energy system considering energy storage devices effects;
+
 (4) Senditive analysis of proposed research;
+
 (5) Optimal dispathing problem in multi-energy system
+
 At present, all the main parts of this project have been finished, and my first paper is going to be published. I’m still make an effort to get another chance to have my second publication.
 
-![image](https://user-images.githubusercontent.com/86719547/123952424-e4674c80-d99d-11eb-9f84-3536bc79239f.png)
+(1) Modeling of multi-energy system
+
+The multi-energy structure are shown as below:
+The first one contains IEEE 24 bus system, 13-node heat network, and 9-node natural gas system;
+The second one contains IEEE 39 bus system, 32-node heat network, and Belgium 20-node natural gas system.
+![image](https://user-images.githubusercontent.com/86719547/123952424-e4674c80-d99d-11eb-9f84-3536bc79239f.png) ![image](https://user-images.githubusercontent.com/86719547/123980566-8cd6da00-d9b9-11eb-972f-1c5628ad5a39.png)
+
+(2) Reliability assessment in multi-energy system considering load uncertainties
+
+The Weibull distribution and Beta distribution have been used to model wind and PV uncertainties. 
+![image](https://user-images.githubusercontent.com/86719547/123981190-0e2e6c80-d9ba-11eb-95b8-e828cdf0315a.png) ![image](https://user-images.githubusercontent.com/86719547/123981221-14244d80-d9ba-11eb-8d20-b2085eb38728.png)
+
 
 
 ### Jekyll Themes
