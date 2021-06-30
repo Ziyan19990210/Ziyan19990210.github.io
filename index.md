@@ -4,11 +4,13 @@ You can use the [editor on GitHub](https://github.com/Ziyan19990210/Ziyan1999021
 
 ### About me
 
-Name: Ziyan Liao
+Name: Ziyan Liao 
 
 Date of birth: 10/02/1999
 
 Nationality: China
+
+![image](https://user-images.githubusercontent.com/86719547/124009765-e64d0200-d9d5-11eb-836c-c182b9686388.png)
 
 ### Education background           
 1. MPhil in Electrical Engineering, 2020.11-2021.11
