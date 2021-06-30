@@ -41,12 +41,12 @@ This is the main project that I have investigated in my research during my Mphil
 
 (5) Optimal dispathing problem in multi-energy system.
 
-At present, all the main parts of this project have been finished, and my first paper is going to be published. I’m still make an effort to get another chance to have my second publication.
+At present, all the main parts of this project have been finished, and my first paper is going to be published. I still make an effort to get another chance to have my second publication.
 
 (1) Modeling of multi-energy system
 
 The multi-energy system contains IEEE 24 bus system, 13-node heat network, and 9-node natural gas system. The multi-energy structure are shown as below:
-![image](https://user-images.githubusercontent.com/86719547/123952424-e4674c80-d99d-11eb-9f84-3536bc79239f.png) ![image](https://user-
+![image](https://user-images.githubusercontent.com/86719547/123952424-e4674c80-d99d-11eb-9f84-3536bc79239f.png) 
 
 (2) Reliability assessment in multi-energy system considering load uncertainties
 
@@ -93,7 +93,7 @@ Different reconfiguration scheme are used to compare the reliability performance
 ![image](https://user-images.githubusercontent.com/86719547/123987274-f4435880-d9be-11eb-8b09-08bc186fc615.png)
 After applying the optimal reconfiguration scheme to the power distribution system RBTS bus 5, the system diagram is shown below:
 ![image](https://user-images.githubusercontent.com/86719547/123987515-2bb20500-d9bf-11eb-8342-ad3bb33f8cbc.png)
-Load points 12 and 13 have transferred to feeder 1, and load points 25 and 26 has transferred to feeder 3. 
+Load points 12 and 13 have transferred to feeder 1, and load points 25 and 26 have transferred to feeder 3. 
 
 ### 3. Geometric parameter imaging monitoring of railway contact wire (overhead line) based on laser radar, 2018.06-2019.04
 
