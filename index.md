@@ -14,17 +14,25 @@ Nationality: China
 
 ### Education background           
 1. MPhil in Electrical Engineering, 2020.11-2021.11
+
    University of Manchester, UK
+   
    Supervisor: Dr Alessandra Parisio
 
 2. Exchange student in Electrical Engineering, 2019.07-2020.07
+
    University of Birmingham, UK
+   
    Supervisor: Dr Dilan Jayaweera
+   
    GPA: 3.5/4.0, Weighted Average Mark:65.667/100 
 
 3. B.E. in Electrical Engineering, 2016.09-2019.06
+
    Beijing jiaotong University (BJTU), China
+   
    Supervisor: Prof Xiaojun Wang
+   
    GPA: 3.37/4.0, Weighted Average Mark:83.5/100
 
 ### Research experience
@@ -81,7 +89,7 @@ Reliability sensitivity analysis is to obtain the partial differential of each r
 When we consider the minimum cost as the obective function, using YALMIP+CPEX solver, we can get the optimal dispatching of each unit shown as the following figures:
 ![image](https://user-images.githubusercontent.com/86719547/124010124-56f41e80-d9d6-11eb-8cce-102654e2bc89.png)
 ![image](https://user-images.githubusercontent.com/86719547/124010153-61aeb380-d9d6-11eb-97bd-23991ed9b01d.png)
-![image](https://user-images.githubusercontent.com/86719547/124010178-6a06ee80-d9d6-11eb-8542-0103dedf5640.png)
+![image](https://user-images.githubusercontent.com/86719547/124011480-f82fa480-d9d7-11eb-83c8-42a3adc81d88.png)
 
 
 ### 2. Reliability assessment in a smart power system with smart reconfiguration of lines, 2019.09-2020.06
