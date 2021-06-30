@@ -77,7 +77,7 @@ Reliability sensitivity analysis is to obtain the partial differential of each r
 
 (5) Optimal dispathing problem in multi-energy system
 When we consider the minimum cost as the obective function, using YALMIP+CPEX solver, we can get the optimal dispatching of each unit shown as the following figures:
-![image](https://user-images.githubusercontent.com/86719547/124008886-d4b72a80-d9d4-11eb-9700-45eac5771c59.png)
+![image](https://user-images.githubusercontent.com/86719547/124009475-966e3b00-d9d5-11eb-8f66-75ca1ee97ccd.png)
 ![image](https://user-images.githubusercontent.com/86719547/124008931-e4367380-d9d4-11eb-8633-257cc92c1653.png)
 ![image](https://user-images.githubusercontent.com/86719547/124009014-fe705180-d9d4-11eb-8cb8-3b27bcd82718.png)
 
