@@ -4,7 +4,24 @@ You can use the [editor on GitHub](https://github.com/Ziyan19990210/Ziyan1999021
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About me
+
+Name: Ziyan Liao
+Date of birth: 10/02/1999
+
+Nationality: China
+
+Education background:           
+MPhil in Electrical Engineering, University of Manchester, UK, 2020.11-2021.11
+     Supervisor: Dr Alessandra Parisio
+
+Exchange student in Electrical Engineering, University of Birmingham, UK, 2019.07-2020.07
+     Supervisor: Dr Dilan Jayaweera
+     GPA: 3.5/4.0, Weighted Average Mark:65.667/100 
+
+B.E. in Electrical Engineering, Beijing jiaotong University (BJTU), China, 2016.09-2019.06
+     Supervisor: Prof Xiaojun Wang
+     GPA: 3.37/4.0, Weighted Average Mark:83.5/100
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
