@@ -7,43 +7,39 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### About me
 
 Name: Ziyan Liao
+
 Date of birth: 10/02/1999
 
 Nationality: China
 
-Education background:           
-MPhil in Electrical Engineering, University of Manchester, UK, 2020.11-2021.11
-     Supervisor: Dr Alessandra Parisio
+### Education background           
+1. MPhil in Electrical Engineering, 2020.11-2021.11
+   University of Manchester, UK
+   Supervisor: Dr Alessandra Parisio
 
-Exchange student in Electrical Engineering, University of Birmingham, UK, 2019.07-2020.07
-     Supervisor: Dr Dilan Jayaweera
-     GPA: 3.5/4.0, Weighted Average Mark:65.667/100 
+2. Exchange student in Electrical Engineering, 2019.07-2020.07
+   University of Birmingham, UK
+   Supervisor: Dr Dilan Jayaweera
+   GPA: 3.5/4.0, Weighted Average Mark:65.667/100 
 
-B.E. in Electrical Engineering, Beijing jiaotong University (BJTU), China, 2016.09-2019.06
-     Supervisor: Prof Xiaojun Wang
-     GPA: 3.37/4.0, Weighted Average Mark:83.5/100
+3. B.E. in Electrical Engineering, 2016.09-2019.06
+   Beijing jiaotong University (BJTU), China
+   Supervisor: Prof Xiaojun Wang
+   GPA: 3.37/4.0, Weighted Average Mark:83.5/100
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Research experience
+1. Reliability assessment and optimization of multi-energy system, 2020.11-2021.11
 
-```markdown
-Syntax highlighted code block
+This is the main project that I have investigated in my research during my Mphil study in University of Manchester (UK) this year. This project mainly includes five parts: 
+(1) Modeling of multi-energy system;
+(2) Reliability assessment in multi-energy system considering load uncertainties;
+(3) Reliability optimization of multi-energy system considering energy storage devices effects;
+(4) Senditive analysis of proposed research;
+(5) Optimal dispathing problem in multi-energy system
+At present, all the main parts of this project have been finished, and my first paper is going to be published. I’m still make an effort to get another chance to have my second publication.
 
-# Header 1
-## Header 2
-### Header 3
+![image](https://user-images.githubusercontent.com/86719547/123952424-e4674c80-d99d-11eb-9f84-3536bc79239f.png)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
