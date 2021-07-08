@@ -66,7 +66,7 @@ The power load curve of MES after considering uncertainties is shown below:
 ![image](https://user-images.githubusercontent.com/86719547/123982278-cbb95f80-d9ba-11eb-8acd-0a6ac31f848a.png)
 
 BP neural network also has been adopted to forecast different types of load, the load forecasting results for heat and natural gas network user is presented below:
-![image](https://user-images.githubusercontent.com/86719547/123990733-f0fd9c00-d9c1-11eb-8956-01624afe8ea1.png)
+![image](https://user-images.githubusercontent.com/86719547/124977673-acf54180-e028-11eb-85aa-73bdb4a36c0b.png)
 
 
 The implementation of sequential Monte Carlo simulation in multi-energy system reliability evaluation with different energy storage devices considering time varying cost models and load uncertainties can be presented in the following flow chart:
