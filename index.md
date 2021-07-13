@@ -92,7 +92,33 @@ When we consider the minimum cost as the obective function, using YALMIP+CPEX so
 ![image](https://user-images.githubusercontent.com/86719547/124011480-f82fa480-d9d7-11eb-83c8-42a3adc81d88.png)
 
 
-### 2. Reliability assessment in a smart power system with smart reconfiguration of lines, 2019.09-2020.06
+### 2. Multi-energy system resilience to extreme weather, 2020.11-2021.11
+
+The main controbution of this project includes:
+
+(1)Resilient modeling of multi-energy system under extreme weather will be presented, which includes line fragile modeling, substation fragile modeling, and components availability modeling;
+
+(2)Sequential Monte Carlo simulation is used to assess multi-energy system resilience under the impact of time-varing and space-varying of extreme weather using the fragile models and multi-temporal AC optimal power flow; 
+
+(3)A specifically introduced mix of operational and infrastructure reliability indices LOLF (Loss of Load Frequency, occs/year) and EENS (Expected Energy Not Supplied, MWh/year) are used to reflect the resilience degradation due to the extreme event for increasing intensities (i.e., increasing maximum wind speeds);
+
+(4)The impact evaluation of different resilience enhancement strategies which includes redundancy, robustness, responsiveness are considered to compare the effectiveness of the resilient measures.
+
+The results of resilience modeling of MES:
+![image](https://user-images.githubusercontent.com/86719547/125389082-8de41000-e398-11eb-84df-c802c67adfce.png)
+
+The ranking results of EELC, EHLC, and EGLC are presented in the following three figures. The vertical axis represents the load curtailments indices (i.e., the percentage of load curtailments (EENS) over the whole simulation times), while the horizontal axis shows the lines ranking (i.e., 1 to 33, the number of lines of the power system) based on their load curtailments indices. 
+![image](https://user-images.githubusercontent.com/86719547/125389163-b10ebf80-e398-11eb-8d6a-35adc038319a.png)
+![image](https://user-images.githubusercontent.com/86719547/125389170-b3711980-e398-11eb-8518-a75919f32c7f.png)
+![image](https://user-images.githubusercontent.com/86719547/125389182-b79d3700-e398-11eb-8330-a031da369dd0.png)
+
+The resilience enhancement case studies include “redundancy”, “robustness” and “responsiveness” adaptation options. These case studies are applied on the transmission lines according to their contribution to system resilience, as this is determined based on their load curtailments indices ranking results. In particular, a parallel, identical transmission line is added for the “redundant case”, the resistance to high wind speeds of the transmission line is increased for the “robustness” case, and the time to repair of a transmission corridor is considered unaffected and equal to  for the “responsiveness” case. 
+
+Figure 5 shows the percentage increase in the resilience by applying the resilience adaptation measures, as expressed using the decrease in EENS (similar results are obtained for LOLF). The horizontal axis of Figure 5 shows the number of lines (or the number of resilience enhancement groups, e.g., 6 lines = group 1, 12 lines = group 2, and so on) for which the case studies are applied. There is a big increase in resilience (i.e., drop in EENS) for the case studies when the first 6 critical lines are enhanced, e.g., close to 23% for the robust case for = 50 m/s. Resilience is further increased when the resilience of additional individual lines is improved, but this becomes smoother, which is expected because as their RAWEENS decreases, their contribution to the overall test network resilience decreases. Comparing the effectiveness of the resilient measures, it can also been seen that among the three strategies, the third one robust strategy can maximum improve multi-energy system resilience, while the redundant case has a higher impact than the responsive. Further, it is highlighted that the prioritization of resilience enhancement interventions might change for different wind speeds.
+![image](https://user-images.githubusercontent.com/86719547/125389276-e0253100-e398-11eb-8162-a78dc6d383fe.png)
+
+
+### 3. Reliability assessment in a smart power system with smart reconfiguration of lines, 2019.09-2020.06
 
 This is the project when I was an exchange student in University of Birmingham last year. Using DIGSILENT power factory to model smart power system based on IEEE 24 bus system. The aim of this project is to model reconfiguration of lines in a smart grid and then assessing the performance with the introduced new environment. The project involves modelling of smart reconfiguration of lines by applying smart switching and network congestion issues. 
 
@@ -107,7 +133,7 @@ After applying the optimal reconfiguration scheme to the power distribution syst
 ![image](https://user-images.githubusercontent.com/86719547/123987515-2bb20500-d9bf-11eb-8342-ad3bb33f8cbc.png)
 Load points 12 and 13 have transferred to feeder 1, and load points 25 and 26 have transferred to feeder 3. 
 
-### 3. Geometric parameter imaging monitoring of railway contact wire (overhead line) based on laser radar, 2018.06-2019.04
+### 4. Geometric parameter imaging monitoring of railway contact wire (overhead line) based on laser radar, 2018.06-2019.04
 
 This is the project when I was a sophomore in Beijing jiaotong University beween 2018-2019. This project used MATLAB to process the data collected from the laser radar to reconstruct the image and calculate the guide height, pull out value and accuracy of the laser radar. The following video is I obtained from laser radar.
 ![image](https://user-images.githubusercontent.com/86719547/123988805-3a4cec00-d9c0-11eb-880f-84df890a5790.png)
